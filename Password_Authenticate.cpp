@@ -17,9 +17,8 @@ int main() {
     return 0;
 }
 /* output 
-Enter password: password123
+Enter password: passw123
 Access denied. Incorrect password.
-PS C:\Users\SOHAM\OneDrive\Attachments\cppfiles> .\passwordauthenticate.exe
-
+__
 Enter password: Soham
 Access granted. */
